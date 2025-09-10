@@ -31,5 +31,5 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Author
 
-- Website - [Raghda](https://www.your-site.com)
-- Frontend Mentor - [@Raghda19](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-cHARPYDRmc)
+- Website - [Raghda]([https://www.your-site.com](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-cHARPYDRmc)  
+- Frontend Mentor - [@Raghda19](https://www.frontendmentor.io/profile/Raghda19)
