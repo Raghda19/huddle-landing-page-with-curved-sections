@@ -32,4 +32,4 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 ## Author
 
 - Website - [Raghda](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Raghda19](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-cHARPYDRmc)
