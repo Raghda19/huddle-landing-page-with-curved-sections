@@ -1,0 +1,675 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    width: 1440px;
+    margin: auto ;
+}
+
+section{
+    margin: 60px;
+}
+
+picture{
+    display: flex;
+}
+
+
+/***** First Div *****/
+
+#freeBttn{
+    border-color: hsl(322, 100%, 66%);
+    border-radius: 25px;
+    background-color: transparent;
+    text-transform: capitalize;
+    color: hsl(322, 100%, 66%);
+    width: 100px;
+    height: 30px;
+    position: relative;
+    bottom: 10px;
+    left: 980px;
+}
+
+#freeBttn:hover{
+    border-color: hsl(321, 71%, 84%);
+    color:hsl(321, 71%, 84%) ;
+    cursor: url(images/hand-pointer.svg),pointer;
+}
+
+
+/***** Secound Div *****/
+
+#containDiv{
+    margin-top: 150px;
+}
+
+.firstHead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size:50px;
+    text-align: center;
+    color: hsl(192, 100%, 9%);
+    margin-bottom: 0;
+}
+
+#firstPrg{
+    font-weight: 400;
+    color: hsl(192, 58%, 17%);
+    text-align: center;
+    margin-left: 340px;
+    font-size: 21px;
+    margin-top: 20px;
+    width: 640px;
+}
+
+.startedBttn{
+   margin: 20px 0 80px 450px ;
+   background-color: hsl(322, 100%, 66%);
+   box-shadow: 1px 4px 6px 4px hsl(211, 38%, 88%) ;
+   border: none;
+   border-radius: 50px;
+   color: hsl(207, 100%, 98%);
+   font-weight: 600;
+   font-size: 20px;
+   width: 420px;
+   height: 80px;
+}
+
+.startedBttn:hover{
+    background-color: hsl(321, 100%, 78%);
+    cursor: url(images/hand-pointer.svg),pointer;
+}
+
+#screenImg{
+    margin-left: 133px;
+    width: 1050px;
+    margin-bottom: 150px;
+}
+
+/***** Table contain *****/
+
+#tableSpaceTwo{
+    padding-left: 20px;
+}
+
+.tableNum{
+    font-weight: 700;
+    color: hsl(192, 100%, 9%);
+    font-size: 80px;
+}
+
+.tableData{
+    font-size: 20px;
+    color: hsl(211, 11%, 59%);
+    font-weight: 400;
+}
+
+#tableSpaceOne{
+    padding-left: 220px;
+}
+.tableSpace{
+    padding-left: 375px;
+}
+
+#mesgData{
+    padding-left: 410px;
+}
+
+/***** Thired Div *****/
+
+#thiredDiv{
+    display: grid;
+}
+
+
+#thirdDivConatin{
+    background-color: hsl(207,100%,98%);
+    padding: 100px 0 50px 90px;
+}
+
+#growHead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+    color: hsl(192, 100%, 9%);
+}
+
+#growParg{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 2rem;
+    color: hsl(192, 75%, 19%);
+    width: 680px;
+}
+
+#growIllustration{
+    width: 500px;
+    padding-left: 90px;
+    padding-bottom: 10px;
+}
+
+
+/***** Forth Div *****/
+
+#forthDiv{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.forthDivContain{
+    padding-left: 150px;
+}
+
+#flowingHead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: hsl(192, 100%, 9%);
+}
+
+#flowingPrag{
+    font-weight: 600;
+    font-size: 15.5px;
+    line-height: 1.5rem;
+    color: hsl(192, 75%, 19%);
+    width: 540px;
+}
+#flowingIllustration{
+    width: 500px;
+    padding-left: 100px;
+}
+
+/***** Fifth Div *****/
+
+#fifthDiv{
+   display: grid; 
+   margin-bottom: 100px;
+}
+
+#fifthDivContain{
+    background-color: hsl(207,100%,98%);
+    padding: 90px 0 70px 90px;
+}
+
+#yourHead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: hsl(192, 100%, 9%);
+}
+
+#yourPrag{
+    font-weight: 600;
+    font-size: 15.5px;
+    line-height: 1.5rem;
+    color: hsl(192, 75%, 19%);
+    width: 540px;
+}
+
+#yourIllustration{
+    width: 500px;
+    padding-left: 150px;
+}
+
+/***** Sixth Div *****/
+
+#sixthDivHead{
+    margin-bottom: 20px;
+    font-size:40px;
+}
+
+#sixthDivBttn{
+    margin-left: 520px;
+    width: 390px;
+}
+
+/***** Footer Div *****/
+
+#footerDiv{
+    display: grid;
+    margin-top: 50px;
+}
+
+ul{
+    list-style-type: none;
+    display: inline-grid; 
+}
+
+
+#Icons{
+    margin-top: 40px;
+}
+
+.illustration{
+    display: inline;
+}
+
+#footerDivContain{
+    background-color: hsl(192, 100%, 9%);
+    padding: 90px 0 70px 90px;
+}
+
+
+.footerPrag{
+    font-size: 14.5px;
+    line-height: 1.5rem;
+    color: hsl(207, 100%, 98%);
+    width: 340px;
+    padding-top: 0;
+    margin-bottom: 40px;
+    margin-top: 0;
+}
+
+#addressP1{
+    margin-top: 20px;
+}
+
+#iconPhoneFooter, #iconeEmailFooter{
+    padding-right: 15px;
+}
+
+.pragIconFooter{
+    color: hsl(207, 100%, 98%);
+    margin-bottom: 20px;
+}
+
+#tableIcon{
+  display: inline-table;
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+#facebookIcon{
+    border-radius: 3px;
+    width: 32px;
+    height: 24px;
+    background-color: white;
+    margin-right: 25px;
+    padding: 5px 3px 3px 0;
+}
+
+.fa-facebook-f{
+    padding-left: 13px;
+    
+}
+
+#twitterIcon{
+    border-radius: 3px;
+    width: 30px;
+    height: 25px;
+    background-color: white;
+    margin-left: 25px ;
+    padding: 4px 5px 3px 0;
+}
+
+.fa-twitter{
+    padding-left: 6px;
+}
+
+#instagramIcon:hover{
+    cursor: url(images/hand-pointer.svg),pointer; 
+}
+
+#facebookIcon:hover, #twitterIcon:hover{
+    background-color: rgb(12, 179, 179);
+    cursor: url(images/hand-pointer.svg),pointer;
+}
+
+h2{
+    color: hsl(207, 100%, 98%);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#textFooter{
+    
+    border-radius: 7px;
+    height: 40px;
+    width: 310px;
+    
+}
+
+#textFooter:hover{
+    border: 2px solid hsl(322, 100%, 66%);
+    background-color: white;
+    color: hsl(192, 100%, 9%);
+    cursor: url(images/hand-pointer.svg),pointer; 
+}
+
+
+#SubscribeFooter{
+   border: none;
+   background-color: hsl(322, 100%, 66%);
+   border-radius: 6px;
+   color: hsl(207, 100%, 98%);
+   font-weight: 600;
+   font-size: 15px;
+   width: 127px !important;
+   height: 40px !important;
+   margin-left: 40px;
+}
+
+#SubscribeFooter:hover{
+    background-color: hsl(321, 100%, 78%);
+    cursor: url(images/hand-pointer.svg),pointer;
+    
+}
+
+.SecoundCol{
+    padding-left: 400px;
+}
+
+#message {
+	color:hsl(0, 100%, 63%);
+	font-size:80%;
+	margin:5px 0 0 0;
+	padding:0 0 5px 2px;
+    display: none;
+}
+
+.attribution { 
+    font-size: 20px; 
+    text-align: center; 
+    color: hsl(192, 100%, 9%);
+}
+
+.attribution a { 
+    color: hsl(322, 100%, 66%); 
+}
+
+.attribution a:hover{
+    color: hsl(321, 100%, 78%);
+    cursor: url(images/hand-pointer.svg),pointer;
+}
+
+/***** Quare Secation *****/
+@media (max-width: 375px){
+
+    html,body{
+        overflow-x: hidden;
+    }
+    
+    body{
+        width: 375px !important;
+       
+     }
+    section{
+        margin: 45px 0 30px 25px;
+    }
+
+   
+    #logo{
+        width: 100px;
+    }
+    #freeBttn{
+        position: relative;
+        bottom: 2px;
+        left: 140px;
+        font-size: 10px;
+        width: 80px;
+        height: 25px;
+        padding: 0 8px 0 8px;
+    }
+    
+    #containDiv{
+        margin-top: 100px;
+        display: inline-flex;
+        flex-direction: column;
+    }
+    .firstHead{
+        width:300px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    
+    #firstPrg{
+        margin-left: 10px;
+        font-weight: 600;
+        font-size: 13px;
+        width: 300px;
+    }
+    
+    .startedBttn{
+       box-shadow: 1px 2px 2px 3px hsl(211, 38%, 88%) ;
+       margin: 40px 0 110px 65px ;
+       font-size: 12px;
+       width: 190px;
+       height: 40px;
+    }
+    
+    
+    #screenImg{
+        margin-left: 10px;
+        width: 300px;
+        margin-bottom: 80px;
+    }
+
+    
+   
+    /***** Table contain (In secound Div)*****/
+
+                   /**First Part**/
+    
+    #tableSpaceOne{
+    padding-left:65px;
+    }
+    
+    #tableSpaceTwo{
+        padding-left: 40px;
+    }
+     #tableNumOne{
+       padding-left: 12px;
+        font-size: 65px;
+    }
+    
+     #iconOneID{
+        padding-left: 15px; 
+        margin-top: 40px;
+    }
+    .iconOne{
+        width: 30px;
+    }
+    
+    #communities{
+        font-size: 15.5px;
+        padding-left: 20px;
+    }
+
+                    /**Secound Part**/
+   
+     #iconTwoId{
+        padding-left: 5px;
+        margin-top: 80px;
+    }
+
+    .iconTwo{
+        width: 25px;
+    }
+
+    .tableSpace{
+        font-size: 56px;
+        padding-left: 45px;
+    }
+
+    #mesgData{
+        font-size:15px;
+        width: 100px;
+        text-align: center !important;
+        padding-left: 70px;
+    }
+
+    /***** Thirer Div *****/
+
+    #thiredDiv{
+        display: inline-block;
+        margin-top: 25px;
+        width: 100%;
+        overflow-y: hidden;
+    }
+
+    #thirdDivConatin{
+        padding-left: 0;
+        padding-bottom: 50px;
+    }
+
+    
+    #firstTableIllustration{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 350px;
+    }
+    #growHead{
+        font-size: 23px;
+        padding-left: 90px;
+    }
+    
+    #growParg{
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 1.5rem;
+        padding-left: 14px;
+        width: 325px;
+        text-align: center;
+    }
+    
+    #growIllustration{
+        width: 250px;
+        padding-right: 0;
+        padding-left: 50px;
+        padding-bottom: 60px;
+        vertical-align: unset;
+     }
+
+/***** Forth Div *****/
+
+     #forthDiv{
+        margin-top: 140px;
+        margin-bottom: 100px;
+    }
+    
+    .forthDivContain{
+        padding-left: 150px;
+    }
+    
+    #secoundTableIllustration{
+        display: flex;
+        flex-direction: column;
+    }
+    #flowingHead{
+        font-size: 21px;
+        padding-left: 63px;
+    }
+    
+    #flowingPrag{
+        font-size: 13.5px;
+        width: 335px;
+        text-align: center;
+        padding-left: 20px;
+        font-weight: 700;
+    }
+    #flowingIllustration{
+        width: 265px;
+        padding-left: 55px;
+        padding-bottom: 60px;
+    }
+
+    /***** Fifth Div *****/
+
+    #fifthDiv{
+        margin-bottom: 80px;
+        width: 375px;
+     }
+     
+     #fifthDivContain{
+         padding: 30px 0 70px 0;
+         width: 375px;
+     }
+     
+
+      #thiredTableIllustration{
+        display: flex;
+        flex-direction: column-reverse;
+      }
+     #yourHead{
+         font-size: 23px;
+         padding-left: 115px;
+         padding-top: 70px;
+     }
+     
+     #yourPrag{
+         font-size: 13px;
+         font-weight: 700;
+         text-align: center;
+         padding-left: 20px;
+         width: 325px;
+     }
+     
+     #yourIllustration{
+         width: 250px;
+         padding-left: 50px;
+     }
+
+     /***** Sixth Div *****/
+
+     #sixthDivHead{
+        width: 300px;
+        font-size: 24px;
+        margin-left: 35px;
+     }
+
+     #sixthDivBttn{
+        width: 195px;
+        height: 40px;
+        font-size: 13px;
+        margin: 25px 0 180px 90px;
+     }
+
+    /***** Footer Div *****/
+
+     #footerDivContain{
+        width: 375px;
+        padding-left: 0;
+        padding-bottom: 20px;
+     }
+
+     .SecoundCol{
+        padding-left: 0;
+    }
+
+    #addressP2{
+        width: 310px;
+        margin-bottom: 30px;
+    }
+    #SubscribeFooter {
+        margin-left: 170px;
+        margin-top: 15px;
+        width: 140px !important;
+        height: 45px !important;
+    }
+
+    #firstUL{
+        position:relative;
+        top: 320px;
+    }
+
+    #secoundUL{
+        position: relative;
+        bottom: 430px;
+    }
+     
+    #imgLogo{
+        width: 200px;
+    }
+    #textFooter{
+       width: 300px;
+       height: 45px;
+    }
+
+    .attribution { 
+        font-size: 15px; 
+        width: 300px;
+        padding-left: 35px;
+    }
+
+}  
+
+    
+    
+
