@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Raghda19/huddle-landing-page-with-curved-sections.git
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
