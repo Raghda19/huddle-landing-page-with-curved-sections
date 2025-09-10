@@ -19,7 +19,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 ### Links
 
 - Solution URL: https://github.com/Raghda19/huddle-landing-page-with-curved-sections.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://raghda19.github.io/huddle-landing-page-with-curved-sections/
 
 
 ### Built with
@@ -31,5 +31,5 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Raghda](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
